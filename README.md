@@ -10,6 +10,6 @@ for this run like this:chmod 755 MirrorFinderByMAS.bin
 #### git clone https://github.com/mohamadas1992/KaliMirrorFinder.git
 #### cd KaliMirrorFinder
 #### chmod 755 MirrorFinderByMAS.bin
-#### sudo MirrorFinderByMAS.bin
+#### sudo ./MirrorFinderByMAS.bin
 #### Type Y/y
 ##### enjoy....
